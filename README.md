@@ -14,3 +14,9 @@ One of Python’s greatest assets is its extensive set of libraries.Machine lear
 ![l2](https://user-images.githubusercontent.com/42317258/51082653-8bee5700-1731-11e9-8a34-665639d7f8ee.PNG)
 NumPy targets the CPython reference implementation of Python, which is a non-optimizing bytecode interpreter. Mathematical algorithms written for this version of Python often run much slower than compiled equivalents. NumPy address the slowness problem partly by providing multidimensional arrays and functions and operators that operate efficiently on arrays, requiring rewriting some code, mostly inner loops using NumPy.
 #### Numpy : https://en.wikipedia.org/wiki/NumPy
+
+# 2.Pandas 
+The name ‘Pandas’ is derived from the term “panel data”, an econometrics term for multidimensional structured data sets.
+Pandas is a very popular library that provides high-level data structures which are simple to use as well as intuitive.
+It has many inbuilt methods for grouping, combining data and filtering as well as performing time series analysis.
+Pandas can easily fetch data from different sources like SQL databases, CSV, Excel, JSON files and manipulate the data to perform operations on it. There are two main structures in the library:
