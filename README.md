@@ -19,4 +19,7 @@ NumPy targets the CPython reference implementation of Python, which is a non-opt
 The name ‘Pandas’ is derived from the term “panel data”, an econometrics term for multidimensional structured data sets.
 Pandas is a very popular library that provides high-level data structures which are simple to use as well as intuitive.
 It has many inbuilt methods for grouping, combining data and filtering as well as performing time series analysis.
-Pandas can easily fetch data from different sources like SQL databases, CSV, Excel, JSON files and manipulate the data to perform operations on it. There are two main structures in the library:
+Pandas can easily fetch data from different sources like SQL databases, CSV, Excel, JSON files and manipulate the data to perform operations on it. 
+### There are two main structures in the library:
+![l3](https://user-images.githubusercontent.com/42317258/51082737-403cad00-1733-11e9-8983-384ab8bd3299.PNG)
+
