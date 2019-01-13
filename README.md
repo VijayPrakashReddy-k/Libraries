@@ -43,4 +43,13 @@ This is where Matplotlib comes to the rescue. It is a standard Python library us
 However, the flip side of that is flexibility. With enough commands, you can make just about any kind of graph you want with Matplotlib. You can build diverse charts, from histograms and scatterplots to non-Cartesian coordinates graphs.
 
 It supports different GUI backends on all operating systems, and can also export graphics to common vector and graphic formats like PDF, SVG, JPG, PNG, BMP, GIF, etc.
+
+[Python_Matplotlib_Cheat_Sheet.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752929/Python_Matplotlib_Cheat_Sheet.pdf)
+
 ![l5](https://user-images.githubusercontent.com/42317258/51083342-99f6a480-173e-11e9-926e-dcb50dab7068.PNG)
+
+matplotlib is a plotting library for the Python programming language and its numerical mathematics extension NumPy. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK+. There is also a procedural “pylab” interface based on a state machine (like OpenGL), designed to closely resemble that of MATLAB, though its use is discouraged.[2] SciPy makes use of matplotlib.
+
+pyplot is a matplotlib module which provides a MATLAB-like interface.[6] matplotlib is designed to be as usable as MATLAB, with the ability to use Python, with the advantage that it is free.
+
+#### Matplotlib : https://en.wikipedia.org/wiki/Matplotlib
