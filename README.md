@@ -13,3 +13,4 @@ One of Python’s greatest assets is its extensive set of libraries.Machine lear
 [l2.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752874/l2.pdf)
 ![l2](https://user-images.githubusercontent.com/42317258/51082653-8bee5700-1731-11e9-8a34-665639d7f8ee.PNG)
 NumPy targets the CPython reference implementation of Python, which is a non-optimizing bytecode interpreter. Mathematical algorithms written for this version of Python often run much slower than compiled equivalents. NumPy address the slowness problem partly by providing multidimensional arrays and functions and operators that operate efficiently on arrays, requiring rewriting some code, mostly inner loops using NumPy.
+#### Numpy : https://en.wikipedia.org/wiki/NumPy
