@@ -69,7 +69,10 @@ This means that the first group is identified by taking an explicit ax argument 
 # 5.SciPy 
 SciPy builds on the NumPy array object and is part of the NumPy stack which includes tools like Matplotlib, pandas and SymPy, and an expanding set of scientific computing libraries. This NumPy stack has similar users to other applications such as MATLAB, GNU Octave, and Scilab. The NumPy stack is also sometimes referred to as the SciPy stack.
 
+[Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752972/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
+![l7](https://user-images.githubusercontent.com/42317258/51083889-68cea200-1747-11e9-89a0-640290959b17.PNG)
 
+#### SciPy : https://en.wikipedia.org/wiki/SciPy
 
 
 
