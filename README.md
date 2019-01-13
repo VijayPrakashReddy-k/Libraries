@@ -22,4 +22,7 @@ It has many inbuilt methods for grouping, combining data and filtering as well a
 Pandas can easily fetch data from different sources like SQL databases, CSV, Excel, JSON files and manipulate the data to perform operations on it. 
 ### There are two main structures in the library:
 ![l3](https://user-images.githubusercontent.com/42317258/51082737-403cad00-1733-11e9-8983-384ab8bd3299.PNG)
-
+#### Series:
+A Series is a one-dimensional object that can hold any data type such as integers, floats and strings. Let’s take a list of items as an input argument and create a Series object for that list.
+#### DataFrame:
+A DataFrame is a two dimensional object that can have columns with potential different types. Different kind of inputs include dictionaries, lists, series, and even another DataFrame.It is the most commonly used pandas object.
