@@ -60,3 +60,8 @@ Seaborn, which provides a high-level interface to draw statistical graphics.
 As for Seaborn, you have two types of functions: **Axes-level functions** and **figure-level functions**. The ones that operate on the Axes level are, for example, regplot(), boxplot(), kdeplot(), …, while the functions that operate on the Figure level are lmplot(), factorplot(), jointplot() and a couple others.
 
 This means that the first group is identified by taking an explicit ax argument and returning an Axes object, while the second group of functions create plots that potentially include Axes which are always organized in a “meaningful” way. The Figure-level functions will therefore need to have total control over the figure so you won’t be able to plot an lmplot onto one that already exists. When you call the Figure-level functions, you always initialize a figure and set it up for the specific plot it’s drawing.
+
+[Statistical Data Visualization with seaborn.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752956/Statistical.Data.Visualization.with.seaborn.pdf)
+![l6](https://user-images.githubusercontent.com/42317258/51083762-2b691500-1745-11e9-9127-72dff24b8533.PNG)
+
+#### Seaborn : https://seaborn.pydata.org/
