@@ -74,6 +74,8 @@ SciPy builds on the NumPy array object and is part of the NumPy stack which incl
 
 #### SciPy : https://en.wikipedia.org/wiki/SciPy
 
+# 6.Scikit-Learn
+
 
 
 
