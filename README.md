@@ -75,7 +75,21 @@ SciPy builds on the NumPy array object and is part of the NumPy stack which incl
 #### SciPy : https://en.wikipedia.org/wiki/SciPy
 
 # 6.Scikit-Learn
+![l8](https://user-images.githubusercontent.com/42317258/51084113-d7612f00-174a-11e9-8fd3-4f5a19ea7c15.PNG)
 
+Scikit-learn (formerly scikits.learn) is a free software machine learning library for the Python programming language. It features various classification, regression and clustering algorithms including support vector machines, random forests, gradient boosting, k-means and DBSCAN, and is designed to interoperate with the Python numerical and scientific libraries NumPy and SciPy.
+![l9](https://user-images.githubusercontent.com/42317258/51084116-daf4b600-174a-11e9-8e9f-ad34c0cae395.PNG)
+
+[Scikit_Learn_Cheat_Sheet_Python.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752984/Scikit_Learn_Cheat_Sheet_Python.pdf)
+![l10](https://user-images.githubusercontent.com/42317258/51084125-f233a380-174a-11e9-9ed0-f7db5a041d72.PNG)
+
+Scikit-learn is one the most popular ML libraries. It supports many supervised and unsupervised learning algorithms. Examples include linear and logistic regressions, decision trees, clustering, k-means and so on.
+
+It builds on two basic libraries of Python, NumPy and SciPy. It adds a set of algorithms for common machine learning and data mining tasks, including clustering, regression and classification. Even tasks like transforming data, feature selection and ensemble methods can be implemented in a few lines.
+
+For a novice in ML, Scikit-learn is a more-than-sufficient tool to work with, until you start implementing more complex algorithms.
+
+#### Scikit-Learn : https://en.wikipedia.org/wiki/Scikit-learn
 
 
 
