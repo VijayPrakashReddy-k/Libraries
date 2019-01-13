@@ -32,3 +32,15 @@ A DataFrame is a two dimensional object that can have columns with potential dif
 
 [Python_Pandas_Cheat_Sheet_2.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752896/Python_Pandas_Cheat_Sheet_2.pdf)
 #### Pandas : https://en.wikipedia.org/wiki/Pandas_%28software%29
+## Data Visualization
+# 3.Matplotlib
+The best and most sophisticated ML is meaningless if you can’t communicate it to other people.
+
+So how do you actually turn around value from all this data that you have? How do you inspire your business analysts and tell them “stories” full of “insights”?
+
+This is where Matplotlib comes to the rescue. It is a standard Python library used by every data scientist for creating 2D plots and graphs. It’s pretty low-level, meaning it requires more commands to generate nice-looking graphs and figures than with some advanced libraries.
+
+However, the flip side of that is flexibility. With enough commands, you can make just about any kind of graph you want with Matplotlib. You can build diverse charts, from histograms and scatterplots to non-Cartesian coordinates graphs.
+
+It supports different GUI backends on all operating systems, and can also export graphics to common vector and graphic formats like PDF, SVG, JPG, PNG, BMP, GIF, etc.
+![l5](https://user-images.githubusercontent.com/42317258/51083342-99f6a480-173e-11e9-926e-dcb50dab7068.PNG)
