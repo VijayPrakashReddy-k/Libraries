@@ -53,3 +53,10 @@ matplotlib is a plotting library for the Python programming language and its num
 pyplot is a matplotlib module which provides a MATLAB-like interface.[6] matplotlib is designed to be as usable as MATLAB, with the ability to use Python, with the advantage that it is free.
 
 #### Matplotlib : https://en.wikipedia.org/wiki/Matplotlib
+
+# 4.Seaborn
+Seaborn is a popular visualization library that builds on Matplotlib’s foundations. It is a higher-level library, meaning it’s easier to generate certain kinds of plots, including heat maps, time series, and violin plots.
+Seaborn, which provides a high-level interface to draw statistical graphics.
+As for Seaborn, you have two types of functions: **Axes-level functions** and **figure-level functions**. The ones that operate on the Axes level are, for example, regplot(), boxplot(), kdeplot(), …, while the functions that operate on the Figure level are lmplot(), factorplot(), jointplot() and a couple others.
+
+This means that the first group is identified by taking an explicit ax argument and returning an Axes object, while the second group of functions create plots that potentially include Axes which are always organized in a “meaningful” way. The Figure-level functions will therefore need to have total control over the figure so you won’t be able to plot an lmplot onto one that already exists. When you call the Figure-level functions, you always initialize a figure and set it up for the specific plot it’s drawing.
