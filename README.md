@@ -26,3 +26,9 @@ Pandas can easily fetch data from different sources like SQL databases, CSV, Exc
 A Series is a one-dimensional object that can hold any data type such as integers, floats and strings. Let’s take a list of items as an input argument and create a Series object for that list.
 #### DataFrame:
 A DataFrame is a two dimensional object that can have columns with potential different types. Different kind of inputs include dictionaries, lists, series, and even another DataFrame.It is the most commonly used pandas object.
+
+[PandasPythonForDataScience.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752894/PandasPythonForDataScience.pdf)
+![l4](https://user-images.githubusercontent.com/42317258/51082834-dae9bb80-1734-11e9-8072-802d52d71b5c.PNG)
+
+[Python_Pandas_Cheat_Sheet_2.pdf](https://github.com/VijayPrakashReddy-k/Libraries/files/2752896/Python_Pandas_Cheat_Sheet_2.pdf)
+Pandas : https://en.wikipedia.org/wiki/Pandas_%28software%29
