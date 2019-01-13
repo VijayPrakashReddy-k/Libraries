@@ -65,3 +65,12 @@ This means that the first group is identified by taking an explicit ax argument 
 ![l6](https://user-images.githubusercontent.com/42317258/51083762-2b691500-1745-11e9-9127-72dff24b8533.PNG)
 
 #### Seaborn : https://seaborn.pydata.org/
+
+# 5.SciPy 
+SciPy builds on the NumPy array object and is part of the NumPy stack which includes tools like Matplotlib, pandas and SymPy, and an expanding set of scientific computing libraries. This NumPy stack has similar users to other applications such as MATLAB, GNU Octave, and Scilab. The NumPy stack is also sometimes referred to as the SciPy stack.
+
+
+
+
+
+
